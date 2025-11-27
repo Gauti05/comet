@@ -1,5 +1,5 @@
 import React, { useEffect, useState } from "react";
-import { CometChatUIKit } from "@cometchat/chat-uikit-react";  // v6
+import { CometChatUIKit } from "@cometchat/chat-uikit-react";  
 import { CometChat } from "@cometchat/chat-sdk-javascript";
 
 
