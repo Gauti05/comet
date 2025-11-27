@@ -1,0 +1,1 @@
+Project setup steps: npm install, npm start.
