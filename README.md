@@ -1,1 +1,2 @@
 Project setup steps: npm install, npm start.
+![alt text](<Screenshot 2025-11-27 105114.png>) ![alt text](<Screenshot 2025-11-27 105926.png>) ![alt text](<Screenshot 2025-11-27 114859.png>) ![alt text](<Screenshot 2025-11-27 114934.png>) ![alt text](<Screenshot 2025-11-27 115626.png>)
